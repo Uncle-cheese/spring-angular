@@ -1,0 +1,5 @@
+.navbar-taps a {
+    color:red;
+    display: flex;
+    justify-content: center;
+}
